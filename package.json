@@ -1,0 +1,7 @@
+{
+  "name": "useful-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/huriellopes/useful-functions.git",
+  "license": "MIT"
+}
